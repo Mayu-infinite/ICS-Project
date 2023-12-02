@@ -65,9 +65,9 @@ int main() {
         switch (choice) {
             case 1: {
                 double a1, b1, c1, a2, b2, c2;
-                printf("Enter coefficients for the linear equation a1x + b1y + c1 = 0: ");
+                printf("Enter coefficients for the linear equation a1x + b1y = c1: ");
                 scanf("%lf %lf %lf", &a1, &b1, &c1);
-                printf("Enter coefficients for the linear equation a2x + b2y + c2 = 0: ");
+                printf("Enter coefficients for the linear equation a2x + b2y = c2: ");
                 scanf("%lf %lf %lf", &a2, &b2, &c2);
                 solveLinearSystem(a1, b1, c1, a2, b2, c2);
                 break;
