@@ -38,6 +38,6 @@ Make sure you have the following software installed on your machine:
 - Marvel at the solution provided by the program.
 
 ## Contributing 🤝
-1. POLIMETLA ESHIKHA (B23EE1053)
+1. POLIMETLA ESHIKHA (B23CS1053)
 2. VATSAL KUMAR (B23BB1045)
 3. PUJARI MAYURI RAJESH (B23CY1016)
